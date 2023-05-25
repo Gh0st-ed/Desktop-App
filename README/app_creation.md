@@ -213,6 +213,7 @@ npm run make
 ***
 
 >## After designing the whole app and creating the distribution.
+>## One card on the photo is bigger due to the hover animation in CSS.
 
 ***
 ![distribution](distribution.png)
