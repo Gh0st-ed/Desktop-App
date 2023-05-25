@@ -212,6 +212,11 @@ npm run make
 ![app](App.png)
 ***
 
+>## After designing the whole app and creating the distribution.
+>
+***
+![distribution](distibution.png)
+***
 
 
 
