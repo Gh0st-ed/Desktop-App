@@ -215,7 +215,7 @@ npm run make
 >## After designing the whole app and creating the distribution.
 >
 ***
-![distribution](distibution.png)
+![distribution](distribution.png)
 ***
 
 
