@@ -205,11 +205,11 @@ npm run make
 >## Electron Forge will create the out folder where your package will be located.
 
 ***
-![out](/my-electron-app/my-electron-app/Folders.png)
+![out](Folders.png)
 ***
 
 ***
-![app](/my-electron-app/my-electron-app/App.png)
+![app](App.png)
 ***
 
 
